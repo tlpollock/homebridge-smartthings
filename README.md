@@ -1,0 +1,2 @@
+# homebridge-smartthings
+homebridge plug
